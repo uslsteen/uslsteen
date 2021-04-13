@@ -32,4 +32,4 @@
 
 #### I’m currently studying in: 
 
-* [![MIPT](https://img.shields.io/badge/MIPT-MIPT-blue)](https://mipt.ru/)
+* [![MIPT](https://img.shields.io/badge/-MIPT-blue)](https://mipt.ru/)
