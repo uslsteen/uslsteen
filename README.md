@@ -37,3 +37,5 @@
 
 #### I’m currently studying in: 
  [![MIPT](https://img.shields.io/badge/-MIPT-blue)](https://mipt.ru/)
+ 
+##### My GPA : 8.46 / 10
