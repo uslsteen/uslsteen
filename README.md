@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+Hello, my name is Anton! I'm studying at the 5'th grade of MIPT DREC.
 
 
 ## Langs:
